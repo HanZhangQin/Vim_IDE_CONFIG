@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/hzqin/Desktop/labfw/JenkinsScripts'
+let g:netrw_dirhist_2='/home/hzqin/FW_Titan1_AD_QHZ_linux/software/fcd/fw/flashBall'
+let g:netrw_dirhist_3='/home/hzqin/FW_Titan1_AD_QHZ_linux/software/fcd/tools/fe/sata_sim'
+let g:netrw_dirhist_4='/home/hzqin/FW_Titan1_AD_QHZ_linux/software/scripts'
+let g:netrw_dirhist_5='/home/hzqin/FW_Titan1_AD_QHZ_linux/software/tcms'

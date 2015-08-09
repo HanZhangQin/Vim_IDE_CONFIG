@@ -1,0 +1,10 @@
+#Use to install Monaco Font
+
+#! /bin/bash
+cd /usr/share/fonts/truetype/
+cd ttf-monaco/
+sudo wget http://www.gringod.com/wp-upload/software/Fonts/Monaco_Linux.ttf
+sudo mkfontdir
+cd ..
+fc-cache
+
